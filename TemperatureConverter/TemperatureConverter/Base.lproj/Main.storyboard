@@ -24,7 +24,7 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="secondarySystemBackgroundColor"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
+                                <textInputTraits key="textInputTraits" keyboardType="decimalPad"/>
                                 <connections>
                                     <action selector="changedValue:" destination="BYZ-38-t0r" eventType="valueChanged" id="mh0-un-exf"/>
                                     <action selector="editInputTextView:" destination="BYZ-38-t0r" eventType="editingChanged" id="9F8-04-BF0"/>
